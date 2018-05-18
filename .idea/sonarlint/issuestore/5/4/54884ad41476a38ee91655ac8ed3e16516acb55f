@@ -1,0 +1,6 @@
+
+[squid:S1075"ARefactor your code to get this URI from a customizable parameter.(άβλΑύÿÿÿÿ
+squid:S1192"ƒDefine a constant instead of duplicating this literal "    font-family: 'Courier Primal', 'Courier Regular', monospace;\n" 3 times.(δίÿÿÿÿÿ
+{squid:S1192"aDefine a constant instead of duplicating this literal "    background-color: #545454;\n" 3 times.(‘Όϋεύÿÿÿÿ
+Bsquid:S1481"(Remove this unused "uri" local variable.(άβλΑύÿÿÿÿ
+Qsquid:S1854"7Remove this useless assignment to local variable "uri".(άβλΑύÿÿÿÿ

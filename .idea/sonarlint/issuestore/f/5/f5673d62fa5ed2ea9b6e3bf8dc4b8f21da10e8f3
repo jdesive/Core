@@ -1,0 +1,18 @@
+
+esquid:S3008"PRename this field "EMPTY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¦ôœ
+msquid:S3008"SRename this field "NEW_LINE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Áåüÿÿÿÿ
+psquid:S3008"VRename this field "NEW_LINE_CR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕáÉøÿÿÿÿ
+psquid:S3008"VRename this field "NEW_LINE_LF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËêëØşÿÿÿÿ
+@squid:S1444"+Make this "public static EMPTY" field final(ú¦ôœ
+Hsquid:S1444".Make this "public static NEW_LINE" field final(‰Áåüÿÿÿÿ
+Ksquid:S1444"1Make this "public static NEW_LINE_CR" field final(ÕáÉøÿÿÿÿ
+Ksquid:S1444"1Make this "public static NEW_LINE_LF" field final(ËêëØşÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck"QMake EMPTY a static final constant or non-public and provide accessors if needed.(ú¦ôœ
+…"squid:ClassVariableVisibilityCheck"TMake NEW_LINE a static final constant or non-public and provide accessors if needed.(‰Áåüÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"WMake NEW_LINE_CR a static final constant or non-public and provide accessors if needed.(ÕáÉøÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"WMake NEW_LINE_LF a static final constant or non-public and provide accessors if needed.(ËêëØşÿÿÿÿ
+Ùsquid:S1598"¾This file "Strings.java" should be located in "com\desive\utilities\strings" directory, not in "W:\Git\Repositories\JDeSive GitHub\Core\utilities\src\main\java\com.desive.utilities\strings".(—Íğ¿øÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(×€™”øÿÿÿÿ
+Dsquid:S00108")Either remove or fill this block of code.(•Áíîıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
